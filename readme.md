@@ -13,6 +13,7 @@ This is a Python script that allows you to interact with an AI assistant in the 
 - Replace 'YOUR KEY' in the script with your actual API keys provided by OpenAI and ElevenLabs.
 ## Usage
 Run the script using Python.
+python main.py
 Once the script is running, you can interact with the assistant by typing your messages into the console. The assistant will respond with both text (printed to the console) and audio.
 To end the conversation, type "quit".
 ## Customization
